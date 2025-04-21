@@ -6,3 +6,5 @@ Pipeline for TEC data:
 3. Stacking
 4. Background Estimation
 5. Photometry for TimeSeries & Stellar Populations
+
+See the examples for Planetary Transit & ColorMagnitude Diagram
